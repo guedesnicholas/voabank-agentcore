@@ -13,7 +13,7 @@ chat: Nova Pro
 
 # Evolução
 
-É a evolução do projeto https://github.com/guedesnicholas/voa-bank-rag
+É a evolução do projeto https://github.com/guedesnicholas/voa-bank-rag, trazendo para AWS e avaliação do mesmo
 
 ## Arquitetura
 
