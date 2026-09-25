@@ -11,6 +11,10 @@ Juiz: Qwen 30b
 chat: Nova Pro
 ---
 
+# Evolução
+
+É a evolução do projeto https://github.com/guedesnicholas/voa-bank-rag
+
 ## Arquitetura
 
 ```
