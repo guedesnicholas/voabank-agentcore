@@ -4,6 +4,11 @@ Agente de IA RAG (Retrieval-Augmented Generation) construído com **Amazon Bedro
 integrando uma Knowledge Base gerenciada, gateway MCP, Lambda como middleware e avaliação
 dupla com AgentCore Evaluations e DeepEval (Qwen via Bedrock como juiz)
 
+# Modelo utilizados
+
+
+Juiz: Qwen 30b
+chat: Nova Pro
 ---
 
 ## Arquitetura
